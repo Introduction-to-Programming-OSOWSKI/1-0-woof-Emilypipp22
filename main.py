@@ -1,6 +1,6 @@
 #define function
 def woof():
-    #return 
+    #return woof
     return "woof"
 
 #print function
